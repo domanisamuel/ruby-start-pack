@@ -9,6 +9,4 @@ greeting() # call function
 def greet(name)
     puts "hello #{name}"
 end
-greet("Sam") # braces are optional
-
-
+greet "Sam" # braces are optional
