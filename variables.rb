@@ -2,6 +2,7 @@
 
 name = "Samuel"
 score = 80
+some_huge_amount = 1000000
 
 puts(name)
 puts(score)
